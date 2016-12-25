@@ -80,7 +80,7 @@ def build_model(model):
 	# build the model
     model = baseline_model()
     # Fit the model
-    model.fit(X_train, y_train, validation_data=(X_test, y_test), nb_epoch=2, batch_size=200, verbose=2)
+    model.fit(X_train, y_train, validation_data=(X_test, y_test), nb_epoch=10, batch_size=200, verbose=2)
     return model
 
 def save_model(model):
