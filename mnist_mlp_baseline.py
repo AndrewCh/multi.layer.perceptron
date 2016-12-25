@@ -123,7 +123,7 @@ if not path:
 	save_model(model)
 	# Final evaluation of the model
 	scores = model.predict(X_t)
-	print("Probabilities for each class\n", scores)
+	print("Probabilities for each class\n")
 	print_class(scores)
 else:
 	# Final evaluation of the model
