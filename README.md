@@ -12,8 +12,8 @@ for a digit image from MNIST dataset.
 5. Run python in command line with argument of the multylayer erceptron network.
 6. Enjoy
 
-##Detailed tutorial may be found at my blog in a few moments
-https://gettocode.com
+##Detailed tutorial may be found at my blog
+https://gettocode.com/2016/12/26/multilayer-perceptron-predictions-exposed/
 
 ##Credits:
 1. This project is based on code samples from Deep Learning with Python book by Jason Brownlee from Machine Learning Mastery site.
