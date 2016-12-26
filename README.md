@@ -15,7 +15,7 @@ for a digit image from MNIST dataset.
 ##Detailed tutorial may be found at my blog in a few moments
 https://gettocode.com
 
-#Credits:
+##Credits:
 1. This project is based on code samples from Deep Learning with Python book by Jason Brownlee from Machine Learning Mastery site.
 http://machinelearningmastery.com/
 
