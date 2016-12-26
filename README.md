@@ -14,3 +14,10 @@ for a digit image from MNIST dataset.
 
 ##Detailed tutorial may be found at my blog in a few moments
 https://gettocode.com
+
+#Credits:
+1. This project is based on code samples from Deep Learning with Python book by Jason Brownlee from Machine Learning Mastery site.
+http://machinelearningmastery.com/
+
+2.  A few lines were taken from a Ahem Detector With Deep Learning blog post by Francesco Gadaleta from World of Piggy site.
+http://worldofpiggy.com/2016/11/02/ahem-detector-deep-learning/
