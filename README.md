@@ -6,7 +6,7 @@ for a digit image from MNIST dataset.
 
 ##To run this model you need Linux/ Windows
 1. Python 2 or 3 installed with Anaconda 2/3
-2. Install TensorFlow or Theano
+2. Install TensorFlow
 3. Install Keras
 4. Download the project.
 5. Run python in command line with argument of the multylayer erceptron network.
